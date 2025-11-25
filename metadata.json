@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VibeCopy AI",
+  "description": "Transform your photos by mimicking the style, pose, or lighting of reference images using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
